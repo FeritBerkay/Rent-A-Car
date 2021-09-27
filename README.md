@@ -37,4 +37,4 @@ This layer organize the requests come from the browser.
 <hr>
 
 ### Maded By
-[Ferit Berkay Kabil](https://www.linkedin.com/posts/ferit-berkay-kabil-610413203) 
+[Ferit Berkay Kabil](https://www.linkedin.com/ferit-berkay-kabil-610413203) 
