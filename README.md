@@ -9,14 +9,19 @@ I made this project to improve myself and learn new techonologies.
 # Layers
 
 #### Bussiness
+This layer, contains objects that execute the business functions. 
 
 #### Core
+This layer is often known as the backbone or the foundation network because all other switches rely on it. 
 
 #### DataAccess
+This layer use for access the our datas.
 
 #### Entities
+This layer use for keep the our entites.
 
 #### WepApi
+This layer organize the requests come from the browser.
 
 # Technologies Used
 
