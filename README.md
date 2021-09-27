@@ -1,6 +1,6 @@
 <h1 align="center">Car Rental System - Backend</h1> 
 
-<p align="center">[For Photos](https://www.linkedin.com/posts/ferit-berkay-kabil-610413203_kodalamaio-dan-engin-demirogun-yapt%C4%B1g%C4%B1-activity-6790741754132914177-Q84X) </p> 
+[For Project UI](https://www.linkedin.com/posts/ferit-berkay-kabil-610413203_kodalamaio-dan-engin-demirogun-yapt%C4%B1g%C4%B1-activity-6790741754132914177-Q84X) 
 
 # Introduction
 
@@ -8,6 +8,15 @@ I made this project to improve myself and learn new techonologies.
 
 # Layers
 
+#### Bussiness
+
+#### Core
+
+#### DataAccess
+
+#### Entities
+
+#### WepApi
 
 # Technologies Used
 
@@ -17,5 +26,5 @@ I made this project to improve myself and learn new techonologies.
 * Autofac
 * FluentValidation
 * MsSql
-* [Angular for Frontend](https://github.com//car-rental-ng)
+* [Angular for Frontend](https://github.com/FeritBerkay/ReCapProject-Frontend)
 </div>
