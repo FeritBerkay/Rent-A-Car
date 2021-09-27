@@ -33,3 +33,8 @@ This layer organize the requests come from the browser.
 * MsSql
 * [Angular for Frontend](https://github.com/FeritBerkay/ReCapProject-Frontend)
 </div>
+
+<hr>
+
+### Maded By
+[Ferit Berkay Kabil](https://www.linkedin.com/posts/ferit-berkay-kabil-610413203) 
